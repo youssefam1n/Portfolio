@@ -1,0 +1,32 @@
+#intro, footer{
+    text-align: center;
+}
+
+main, header, footer{
+    padding: 16px 15%;
+}
+
+header, footer {
+    color: #e8e6e3;
+    background-color: #19212c;
+}
+
+main {
+    color: #1F2937;
+}
+
+main h2 {
+    text-align: center;
+}
+
+p, ul, li {
+    font-size: 18px;
+}
+
+footer p {
+    margin: 0px;
+}
+
+#contact {
+    background-color: #E5E7EB;
+}
